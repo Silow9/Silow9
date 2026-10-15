@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=Hi%20there,%20I'm%20Silow&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7DB9DE&height=300&section=header&text=Hi%20,%20I'm%20Silow&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,ts,cs,cpp,rust,kotlin" alt="My Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cs,postgres,vue,docker,replit,aws,pr,ps" alt="My Tech Stack"/>
   </a>
 </p>
 
