@@ -20,14 +20,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://aws.amazon.com/events/summits/new-york/">
-    <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2025/07/09/AWS_Summit_NY.png" alt="AWS Summit New York" width="100%"/>
+  <a href="https://aws-experience.com/amer/smb/e/7dffd/learn-gen-ai-with-aws---amazon-bedrock-workshop">
+    <img src="https://aws-experience.com/amer/smb/og-image?site=smb-hub-amer&title=Learning+Generative+AI+with+AWS+-+Amazon+Bedrock+Workshop" alt="Amazon Bedrock Workshop" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://s2025.siggraph.org/">
-    <img src="https://history.siggraph.org/wp-content/uploads/2024/08/SIGGRAPH-2025-Banner.jpg" alt="SIGGRAPH 2025" width="100%"/>
+  <a href="https://asia.siggraph.org/2025/">
+    <img src="https://asia.siggraph.org/2025/wp-content/uploads/2025/02/SA25-Website-SocialShare-1200x630-1.png" alt="SIGGRAPH Asia 2025" width="100%"/>
   </a>
 </p>
 
