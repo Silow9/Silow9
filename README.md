@@ -20,6 +20,11 @@
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Silow9&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&exclude_repo=.github,AstrBot,AstrBot-desktop,AstrBot-docs,AstrBotLauncher,AstrBot_Landing_Page,AstrBot_Plugins_Collection,Astrbot_Plugins_Market,FlowChat,astrbot-aur,astrbot-blog,astrbot-contributors,astrbot-release-harbour,astrbot-sdk,astrbot-t2i-playground,astrbot-t2i-service,astrbot_plugin_SDGen,astrbot_plugin_blacklist,astrbot_plugin_cloudmusic,astrbot_plugin_sysinfo,astrbot_prompts_collection,astrbot_sandbox_boxlite,astrbot_sandbox_cua,astrbot_sandbox_shipyard,astrbot_sandbox_shipyard_neo,builtin_commands_extension,cpython,home,markitdown,qq_official_url_cleaner,Silow9.github.io,ravenote,shipyard,shipyard-neo,virus-bar_u_faq" alt="Silow's GitHub Stats"/>
+  <a href="https://github.com/langgenius/dify">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Silow9&repo=langgenius/dify&show_owner=true&theme=radical&hide_border=true&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" alt="Contribute to langgenius/dify"/>
+  </a>
+  <a href="https://github.com/AstrBotDevs/AstrBot">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Silow9&repo=AstrBotDevs/AstrBot&show_owner=true&theme=radical&hide_border=true&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" alt="Contribute to AstrBotDevs/AstrBot"/>
+  </a>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Silow9&role=OWNER,ORGANIZATION_MEMBER&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=.github,AstrBot,AstrBot-desktop,AstrBot-docs,AstrBotLauncher,AstrBot_Landing_Page,AstrBot_Plugins_Collection,Astrbot_Plugins_Market,FlowChat,astrbot-aur,astrbot-blog,astrbot-contributors,astrbot-release-harbour,astrbot-sdk,astrbot-t2i-playground,astrbot-t2i-service,astrbot_plugin_SDGen,astrbot_plugin_blacklist,astrbot_plugin_cloudmusic,astrbot_plugin_sysinfo,astrbot_prompts_collection,astrbot_sandbox_boxlite,astrbot_sandbox_cua,astrbot_sandbox_shipyard,astrbot_sandbox_shipyard_neo,builtin_commands_extension,cpython,home,markitdown,qq_official_url_cleaner,Silow9.github.io,ravenote,shipyard,shipyard-neo,virus-bar_u_faq" alt="Silow's Top Languages"/>
 </p>
