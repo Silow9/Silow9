@@ -29,7 +29,7 @@
   <tr>
     <td width="430" height="231">
       <a href="https://github.com/langgenius/dify">
-        <img width="430" height="231" src="https://github-stats-extended.vercel.app/api/pin/?username=Silow9&repo=langgenius/dify&show_owner=true&theme=radical&hide_border=true&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented" alt="Contribute to langgenius/dify"/>
+        <img width="430" height="231" src="https://github-stats-extended.vercel.app/api/pin/?username=Silow9&repo=langgenius/dify&show_owner=true&theme=radical&hide_border=true&show=prs_authored,prs_commented,issues_authored,issues_commented" alt="Contribute to langgenius/dify"/>
       </a>
     </td>
     <td width="430" height="231">
