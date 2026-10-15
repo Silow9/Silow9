@@ -20,11 +20,15 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=232F3E,FF9900&height=150&section=header&text=AWS%20Bedrock&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="AWS Bedrock"/>
+  <a href="https://aws.amazon.com/events/summits/new-york/">
+    <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2025/07/09/AWS_Summit_NY.png" alt="AWS Summit New York" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=111111,7DB9DE&height=150&section=header&text=SIGGRAPH%202025&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="SIGGRAPH 2025"/>
+  <a href="https://s2025.siggraph.org/">
+    <img src="https://history.siggraph.org/wp-content/uploads/2024/08/SIGGRAPH-2025-Banner.jpg" alt="SIGGRAPH 2025" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
