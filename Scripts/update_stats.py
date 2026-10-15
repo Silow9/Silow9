@@ -16,10 +16,8 @@ USERNAME = "Silow9"
 
 BLACKLIST = {
     "astrbot_prompts_collection",
-    "ravenote",
     "virus-bar_u_faq",
     "home",
-    "raven95676.github.io",
     "AstrBot_Plugins_Collection",
     "AstrBot-docs",
     "AstrBot",
