@@ -5,7 +5,7 @@
 <div align="center">
 
 ### Life is tough, still fall in love.
-#### *Love is a pool, accumates all.*
+#### *Love is a pool, accumulates all.*
 
 </div>
 
